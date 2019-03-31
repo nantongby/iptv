@@ -1,0 +1,8 @@
+﻿#EXTM3U
+
+#EXTINF:-1,Мотоспорт ТВ
+https://strm.yandex.ru/kal/motosport/motosport0_169_360p.json/index-v1-a1.m3u8
+#EXTINF:-1,Матч!
+http://46.32.64.42/s/live/3/86.169.51.136/0/0.m3u8
+#EXTINF:-1,Боец
+http://cdn.videosofsport1.live/hls/hPZYNQ-OeLItTMTqbN4ssQ/1554034351/fightclub.m3u8
